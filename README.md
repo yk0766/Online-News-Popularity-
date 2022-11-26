@@ -29,7 +29,7 @@ imbalance and therefore imposes less challenges when building ML models.
    
      • Shares < 1500 - Unpopular (0)
 
-Reason for choosing 1500
+    Reason for choosing 1500
 
     • Closer to median (50th percentile)
 
