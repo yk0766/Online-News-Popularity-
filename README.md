@@ -39,3 +39,19 @@ imbalance and therefore imposes less challenges when building ML models.
 
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/99356847/204112760-aab66b30-d937-4aa9-b7d0-d971c4e627fa.png"> <img width="323" alt="image" src="https://user-images.githubusercontent.com/99356847/204112732-31fb7bbd-928e-4d53-a12c-aa54ce7357dc.png">
  
+## Insights Obtained after EDA
+• Articles with titles that include a fair number of words are more likely to be shared and short titles articles aren’t appreciated by people.
+
+• It was observed that articles with more number of videos were shared fewer times, probably because people don’t have the option to skim read the articles.
+
+• It is observed that if rate of negative words in the content increases the count of shares decreases.
+
+• The number of shares for articles posted on weekends is less than those posted on weekdays, pet the proportion of popular articles is higher on weekends.
+
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/99356847/204113105-cc41b48c-37c5-453a-ae56-7e75654bf332.png"> <img width="639" alt="image" src="https://user-images.githubusercontent.com/99356847/204113125-f70be976-e494-4c8f-81e1-ab4347ff89fd.png">
+
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/99356847/204113143-64279e88-a1f6-4473-b26a-2d678ac129dd.png">
+
+
+
+• The number of shares for articles posted on weekends is less than those posted on weekdays, pet the proportion of popular articles is higher on weekends.
