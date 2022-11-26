@@ -7,7 +7,7 @@ The marketing team of Mashable is responsible identifying popular articles and a
 ## Dataset
 Instances – 39,000
 Features – 61
-Target variables (No. of shares) – Determine the popularity of articles based on the shares
+Target variables (No. of shares) - Determine the popularity of articles based on the shares
 Source – UCI Data Repository
 Link -  https://archive.ics.uci.edu/ml/datasets/online+news+popularity
 
