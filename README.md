@@ -6,11 +6,7 @@ The marketing team of Mashable is responsible identifying popular articles and a
 2. Implement new pricing strategy with help of cost based analysis (cost matrix) and help mashable's marketing in increasing revenue.
 ## Dataset
 Instances – 39,000
-Features – 61
-Target variables (No. of shares) – Determine the popularity of articles based on the shares
-Source – UCI Data Repository
-Link - https://archive.ics.uci.edu/ml/datasets/online+news+popularity
-Aim – To predict articles popularity using supervised learning models
+
 
 
 
