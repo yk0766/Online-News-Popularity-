@@ -35,7 +35,5 @@ Reason for choosing 1500
 
 3. Performed correlation analysis using heatmap, scatter plot, bar chart to understand variable relationship and identify highly correlated features.
 
-<img width="191" alt="image" src="https://user-images.githubusercontent.com/99356847/204112710-9b4287fa-5876-44d4-885d-a1b75aca53b6.png"> 
-<img width="263" alt="image" src="https://user-images.githubusercontent.com/99356847/204112732-31fb7bbd-928e-4d53-a12c-aa54ce7357dc.png">
-
-<img width="191" alt="image" src="https://user-images.githubusercontent.com/99356847/204112710-9b4287fa-5876-44d4-885d-a1b75aca53b6.png"> 
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/99356847/204112710-9b4287fa-5876-44d4-885d-a1b75aca53b6.png">  <img width="263" alt="image" src="https://user-images.githubusercontent.com/99356847/204112732-31fb7bbd-928e-4d53-a12c-aa54ce7357dc.png">
+ 
