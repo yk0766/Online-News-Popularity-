@@ -52,6 +52,3 @@ imbalance and therefore imposes less challenges when building ML models.
 
 <img width="638" alt="image" src="https://user-images.githubusercontent.com/99356847/204113143-64279e88-a1f6-4473-b26a-2d678ac129dd.png">
 
-
-
-• The number of shares for articles posted on weekends is less than those posted on weekdays, pet the proportion of popular articles is higher on weekends.
