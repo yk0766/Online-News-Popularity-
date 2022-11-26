@@ -16,6 +16,21 @@ Source – UCI Data Repository
 
 Link -  https://archive.ics.uci.edu/ml/datasets/online+news+popularity
 
+## Exploratory Data Analysis (Univariate, Bivariate, Multivariate)
+
+1. Understand the target variable (shares)
+Shares – Determine the popularity of articles based on the shares
+Number of shares – Continuous
+
+2. Converted this problem to a classification problem based on the percentile (median) of the target variable which was 1400 but we chose 1500 to eliminate the problem of class
+imbalance and therefore imposes less challenges when building ML models.
+
+Shares > 1500 – Popular (1)
+Shares <1500 - Unpopular (0)
+
+Reason for choosing 1500
+1. Closer to median (50th percentile)
+2. The problem of class imbalance would be resolved 
 
 
 
