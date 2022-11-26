@@ -26,7 +26,7 @@ Number of shares – Continuous
 imbalance and therefore imposes less challenges when building ML models.
 
     • Shares > 1500 – Popular (1)
-  
+   
     • Shares < 1500 - Unpopular (0)
 
 Reason for choosing 1500
