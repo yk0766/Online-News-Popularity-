@@ -94,3 +94,16 @@ AUC & ROC Curve, F1 Score and Accuracy to evaluate these models
 It was observed that random forest model gave the highest accuracy, AUC score so we performed hyperparameter tunning on it and observed that its performance increase significantly
 
 <img width="568" alt="image" src="https://user-images.githubusercontent.com/99356847/204113789-ac396048-b569-4537-819a-67edf5483c50.png">
+
+## Cost-based Analysis using cost matrix
+
+Based on the problem statement and our research on the advertisement selling we created a cost matrix where we added the profits and loss of the following cases :
+
+• Identifying popular articles correctly will help in increasing the cost at which Advertisements are sold (True Positive)
+
+• While identifying unpopular articles will decrease the ad cost, it will increase the number of Advertisement sold although at lower cost (True Negative)
+
+• Loss will be incurred when a Popular article will be predicted as Unpopular, as ads will be sold at lower cost (False Negative)
+
+• Loss will be incurred when an Unpopular article will be predicted as Popular, as ads will be sold at a higher cost but eventually, we might lose potential future ads (False Positive)
+
