@@ -78,3 +78,16 @@ Upper bound = above 99th percentile (removed outliers above upper bound)
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113650-e9acd841-20ba-489a-bd75-6ae8f5d6df3e.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113678-3bd47b61-c2bb-41f3-8043-012b9d66b8d2.png">
 
 
+## Machine Learning Model and Evaluation
+
+Naïve Bayes
+Logistic Regression
+KNN
+Random Forest
+
+Performance metrics 
+AUC & ROC Curve, F1 Score and Accuracy to evaluate these models 
+
+It was observed that random forest model gave the highest accuracy, AUC score so we performed hyperparameter tunning on it and observed that its performance increase significantly
+
+<img width="568" alt="image" src="https://user-images.githubusercontent.com/99356847/204113789-ac396048-b569-4537-819a-67edf5483c50.png">
