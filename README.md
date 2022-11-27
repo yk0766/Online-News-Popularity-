@@ -48,7 +48,7 @@ imbalance and therefore imposes less challenges when building ML models.
 
 • The number of shares for articles posted on weekends is less than those posted on weekdays, pet the proportion of popular articles is higher on weekends.
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113105-cc41b48c-37c5-453a-ae56-7e75654bf332.png">  <img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113143-64279e88-a1f6-4473-b26a-2d678ac129dd.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/99356847/204113105-cc41b48c-37c5-453a-ae56-7e75654bf332.png">  <img width="600" alt="image" src="https://user-images.githubusercontent.com/99356847/204113143-64279e88-a1f6-4473-b26a-2d678ac129dd.png">
 
 ## Preprocessing
 • Removed dump articles – articles with no words as they won’t be helpful for model building
