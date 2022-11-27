@@ -62,5 +62,7 @@ imbalance and therefore imposes less challenges when building ML models.
 • Removed weekday_is_saturday and weekday_is_Saturday with help of cross plots chi-square values 
 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/99356847/204113293-c9f618f5-6b01-4de0-a908-d6a4dbb12539.png">
+<img width="718" alt="image" src="https://user-images.githubusercontent.com/99356847/204113473-31c776c3-539f-4dc7-a63b-47b23ebecded.png">
+
 
 
