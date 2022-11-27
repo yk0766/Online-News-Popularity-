@@ -107,3 +107,6 @@ Based on the problem statement and our research on the advertisement selling we 
 
 • Loss will be incurred when an Unpopular article will be predicted as Popular, as ads will be sold at a higher cost but eventually, we might lose potential future ads (False Positive)
 
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/99356847/204114038-2e87dd84-ea8b-46ae-bd2a-1bccc3b516ac.png">
+
+
