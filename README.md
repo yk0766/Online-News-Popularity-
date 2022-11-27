@@ -2,7 +2,7 @@
 ## Problem statement
 The marketing team of Mashable is responsible identifying popular articles and accordingly sell ads on these articles to incur large profits. Currently the team uses heuristics to predict articles popularity and has flat rate for ads irrespective of the popularity. The team lacks a framework to identify article popularity based on historical data of articles published on the website.
 ## Goal 
-• Determining the popularity of articles prior to its publication by training machine learning models on various features and implement new pricing strategy with help of cost based analysis (cost matrix) and help mashable's marketing to maximize their profit.
+Determining the popularity of articles prior to its publication by training machine learning models on various features and implement new pricing strategy with help of cost based analysis (cost matrix) and help mashable's marketing to maximize their profit.
 
 ## Dataset
 Instances – 39,000
