@@ -121,7 +121,7 @@ Based on the problem statement and our research on the advertisement selling we 
 
 • Form the 4 supervised learning models, random forest has the best profitability. (6.47 mil from 3 mil)
 
-<img width="259" alt="image" src="https://user-images.githubusercontent.com/99356847/204114108-f662b407-fe12-4e2d-a648-cfbab7358e31.png"> <img width="350" alt="image" src="https://user-images.githubusercontent.com/99356847/204114122-d39bcac5-7cd8-483c-b870-b227926280b5.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/99356847/204114108-f662b407-fe12-4e2d-a648-cfbab7358e31.png"> <img width="350" alt="image" src="https://user-images.githubusercontent.com/99356847/204114122-d39bcac5-7cd8-483c-b870-b227926280b5.png">
 
 
 
