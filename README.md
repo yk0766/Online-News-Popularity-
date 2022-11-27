@@ -64,5 +64,17 @@ imbalance and therefore imposes less challenges when building ML models.
 <img width="650" alt="image" src="https://user-images.githubusercontent.com/99356847/204113293-c9f618f5-6b01-4de0-a908-d6a4dbb12539.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/99356847/204113473-31c776c3-539f-4dc7-a63b-47b23ebecded.png">
 
+## Dealing with Skewness and Outliers
+
+• Most of the features are right skewed – In order to deal with this, we performed power transformation techniques imported from pre-processing package 
+
+• Box Cox Transformation: This transformation can be performed when we have values greater than 0 in our dataset. As we had many negative values in our dataset we first converted these negative values into positive and then proceeded with the box cox transformation.
+
+• Most of the features in our dataset contained outliers and after performing box cox transformation we partially took care of the outlier and further performed capping 
+
+Lower bound = less than 1st percentile (removed outliers below lower bound)
+Upper bound = above 99th percentile (removed outliers above upper bound)
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113650-e9acd841-20ba-489a-bd75-6ae8f5d6df3e.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113678-3bd47b61-c2bb-41f3-8043-012b9d66b8d2.png">
 
 
