@@ -109,4 +109,19 @@ Based on the problem statement and our research on the advertisement selling we 
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/99356847/204114038-2e87dd84-ea8b-46ae-bd2a-1bccc3b516ac.png">
 
+## Model Profitibilty Analysis
+
+• Profitability by cost matrix, Random Forest has the highest profitability
+
+• Profitability in no model scenario, with flat rate of $400 for all articles irrespective of popularity
+
+• The red line indicates - No Model Scenario
+
+• Naive bayes cost performance gives negative lift, based on the cost matrix 
+
+• Form the 4 supervised learning models, random forest has the best profitability. (6.47 mil from 3 mil)
+
+<img width="259" alt="image" src="https://user-images.githubusercontent.com/99356847/204114108-f662b407-fe12-4e2d-a648-cfbab7358e31.png"> <img width="350" alt="image" src="https://user-images.githubusercontent.com/99356847/204114122-d39bcac5-7cd8-483c-b870-b227926280b5.png">
+
+
 
