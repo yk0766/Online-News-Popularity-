@@ -109,7 +109,7 @@ Based on the problem statement and our research on the advertisement selling we 
 
 <img width="634" alt="image" src="https://user-images.githubusercontent.com/99356847/204114038-2e87dd84-ea8b-46ae-bd2a-1bccc3b516ac.png">
 
-## Model Profitibilty Analysis
+## Model Profitabilty Analysis
 
 • Profitability by cost matrix, Random Forest has the highest profitability
 
