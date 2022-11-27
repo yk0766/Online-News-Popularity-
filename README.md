@@ -81,8 +81,11 @@ Upper bound = above 99th percentile (removed outliers above upper bound)
 ## Machine Learning Model and Evaluation
 
 Naïve Bayes
+
 Logistic Regression
+
 KNN
+
 Random Forest
 
 Performance metrics 
