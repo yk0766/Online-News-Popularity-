@@ -72,8 +72,8 @@ imbalance and therefore imposes less challenges when building ML models.
 
 • Most of the features in our dataset contained outliers and after performing box cox transformation we partially took care of the outlier and further performed capping 
 
-Lower bound = less than 1st percentile (removed outliers below lower bound)
-Upper bound = above 99th percentile (removed outliers above upper bound)
+Lower bound = less than 1st percentile (outliers below lower bound)
+Upper bound = above 99th percentile (outliers above upper bound)
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113650-e9acd841-20ba-489a-bd75-6ae8f5d6df3e.png"> <img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204113678-3bd47b61-c2bb-41f3-8043-012b9d66b8d2.png">
 
